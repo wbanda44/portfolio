@@ -47,10 +47,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(255, 50, 50);
+    background:rgb(20, 95, 117);
 }
 .box2 {
-    background:rgb(255, 50, 50);
+    background:rgb(20, 95, 117);
     margin-left:-5px;
 }
 #menu {
@@ -80,8 +80,8 @@ body {
 }
 #middle h1 {
     color:rgb(255, 50, 50);
-    font-size:70px;
-    text-decoration:underline;
+    font-size:50px;
+    text-decoration:none;
 }
 #about {
     width:10vw;
