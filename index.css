@@ -171,7 +171,7 @@ body {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(89, 109, 145);
+    background:rgb(56, 60, 66);
     color:#fff;
     z-index:9;
     position:fixed;
@@ -205,15 +205,17 @@ body {
     cursor:text;
 }
 .container h1 {
-    font-size:60px;
+    font-size:30px;
     text-decoration:underline;
 }
 .container p {
-    font-size:21px;
+    font-size:16px;
+    text-align: justify;
+    font-family: 'Roboto', san-serif;
 }
 .btn_one {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#fff;
     background:transparent;
     border:3px solid #fff;
@@ -230,7 +232,7 @@ body {
 }
 .btn_two {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:rgb(255, 50, 50);
     background:#fff;
     border:3px solid #fff;
