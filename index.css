@@ -368,8 +368,9 @@ body {
 
 
 .wrapper{
-  width: 90%;
-  align-items: center;
+  width: 100%;
+  padding:8px 40px;
+  
 }
 .carousel{
   max-width: 1200px;
