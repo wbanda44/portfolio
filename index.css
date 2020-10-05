@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://images.unsplash.com/photo-1491956175078-460aea0914ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1550&q=80") center center;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://firebasestorage.googleapis.com/v0/b/photos-4ce26.appspot.com/o/pop-bg.jpg?alt=media&token=06c0a39d-df5c-4d01-b4fe-2dfe99c1b5a1") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
