@@ -368,15 +368,12 @@ body {
 
 
 .wrapper{
-  width: 85%;
-  padding:0;
-  margin: 0;
-  
+  width: 100%; 
 }
 .carousel{
   max-width: 1200px;
   margin: auto;
-  padding: 0 30px;
+  padding: 0;
 }
 .carousel .card{
   color: #fff;
